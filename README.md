@@ -202,11 +202,7 @@ For detailed instructions, refer to Google's documentation on [OAuth 2.0](https:
 <img width="100%" alt="dashboard" src="https://github.com/devmahmud/Django-Poll-App/assets/17628879/46bd5f4d-b236-44c4-8636-2e171e2173e5"> 
 </div>
 
-<h2>Author</h2>
-<blockquote>
-  Mahmudul alam<br>
-  Email: expelmahmud@gmail.com
-</blockquote>
+
 
 <div align="center">
     <h3>========Thank You !!!=========</h3>
